@@ -1,64 +1,39 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "CV"
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Curriculum Vitae
+## Basic Information
+- Name: platforzation
+- Major: Software Engineering
+- Email: [2935472152@qq.com](mailto:2935472152@qq.com)
+- GitHub: [github.com/platforzation](https://github.com/platforzation)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+**Undergraduate Student | Software Engineering**
+Solid foundation in computer core courses, including Data Structures, Operating Systems, Computer Networks, Database Principles, C/C++ programming. Keep learning backend development and engineering practices in spare time.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Skills
+- **Programming Languages**: C, C++, Python
+- **Tools & Environment**: Git, Linux basic commands, Markdown
+- **Core Knowledge**: Data structure & algorithms, computer network, operating system, database
+- **Others**: Good at document writing, independent debugging and problem analysis
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Practical Experience
+### Course Projects
+1. Data structure curriculum design: Implemented common data structures such as linked list, tree and sorting algorithm, completed requirement analysis, coding and testing independently.
+2. Software engineering course assignment: Practiced modular programming, simple requirement design and project documentation.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Self-Assessment
+I have solid basic programming and algorithm thinking, with good self-study ability. I am interested in backend development, software architecture and program performance optimization.
+I hope to learn distributed system, high concurrency, CI/CD and industrial software engineering specifications in the future.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Career Plan
+My goal is to become a backend software developer.
+- Year1: Consolidate basic knowledge, complete more personal projects and enrich portfolio.
+- Year2: Participate in technical competitions, deepen backend technology stack, accumulate team development experience.
+- Year3: Prepare for internship and job interview, get high-quality backend development offer.
